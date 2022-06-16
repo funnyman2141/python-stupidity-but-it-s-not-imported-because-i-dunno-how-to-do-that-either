@@ -1,0 +1,5 @@
+def main():
+  
+  print ("i have no idea how to do user input on python, this is the best you'll get")
+
+main()
